@@ -1,0 +1,1 @@
+/Users/ri60/.dotfiles/zshrc
